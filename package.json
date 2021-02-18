@@ -1,0 +1,14 @@
+{
+  "name": "Sequelize-migration",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/bachtuyetx7chulun/Sequelize-migration.git",
+  "author": "TRUONG TRUNG HIEU <1721050670@student.humg.edu.vn>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pg": "^8.5.1",
+    "pg-hstore": "^2.3.3",
+    "sequelize": "^6.5.0"
+  }
+}
